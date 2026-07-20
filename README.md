@@ -91,9 +91,9 @@
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=shehroz01233&theme=default&hide_border=true&t=1"
-  height="170"
-  alt="GitHub Streak"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shehroz01233&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  width="495"
+  alt="Activity Graph"
 />
 
 </div>
