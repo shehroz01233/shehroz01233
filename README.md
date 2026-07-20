@@ -83,15 +83,19 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shehroz01233&show_icons=true&theme=github&hide_border=true&cache_seconds=1800"
-    height="165"
-    alt="GitHub Stats" />
 
-  <img
-    src="https://streak-stats.demolab.com?user=shehroz01233&theme=github&hide_border=true"
-    height="165"
-    alt="GitHub Streak" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shehroz01233&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true"
+  height="170"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=shehroz01233&theme=default&hide_border=true"
+  height="170"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 <br/>
