@@ -57,6 +57,14 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -75,7 +83,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-murex.vercel.app/api?username=shehroz01233&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehroz01233&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=shehroz01233&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
