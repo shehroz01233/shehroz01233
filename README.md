@@ -15,11 +15,11 @@
 <div>
 <br/>
 
-- 🌱 1 year of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
-- 💻 Comfortable working with React, React Native, and Node.js, and currently deepening my skills with TypeScript<br/>
-- 📚 Learning something new every week — right now that's cloud basics (AWS) and clean API design<br/>
-- 🛠️ I enjoy small, practical projects more than buzzwords — happy to show real code and real problems I've solved<br/>
-- 🤝 Open to junior/entry-level roles, freelance work, and collaborating on open-source projects<br/>
+* 🌱 1 year of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
+* 💻 Comfortable working with React, React Native, and Node.js, and currently deepening my skills with TypeScript<br/>
+* 📚 Learning something new every week — right now that's cloud basics (AWS) and clean API design<br/>
+* 🛠️ I enjoy small, practical projects more than buzzwords — happy to show real code and real problems I've solved<br/>
+* 🤝 Open to junior/entry-level roles, freelance work, and collaborating on open-source projects<br/>
 
 </div>
 
@@ -85,16 +85,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shehroz01233&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=shehroz01233&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
-<h3 align="left">Contribution Snake:</h3>
-
-<div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shehroz01233/shehroz01233/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shehroz01233/shehroz01233/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shehroz01233/shehroz01233/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 <br/>
