@@ -85,13 +85,13 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=shehroz01233&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true"
+  src="https://github-readme-stats-two-murex.vercel.app/api?username=shehroz01233&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&t=1"
   height="170"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=shehroz01233&theme=default&hide_border=true"
+  src="https://streak-stats.demolab.com?user=shehroz01233&theme=default&hide_border=true&t=1"
   height="170"
   alt="GitHub Streak"
 />
