@@ -15,7 +15,7 @@
 <div>
 <br/>
 
-* 🌱 1 year of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
+* 🌱 6 months of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
 * 💻 Comfortable working with React, React Native, and Node.js, and currently deepening my skills with TypeScript<br/>
 * 📚 Learning something new every week — right now that's cloud basics (AWS) and clean API design<br/>
 * 🛠️ I enjoy small, practical projects more than buzzwords — happy to show real code and real problems I've solved<br/>
