@@ -4,23 +4,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there!%20I'm%20Shehroz%20Raza&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=1+Year+Experience+%7C+Still+Learning+Every+Day;Front-end+%2B+Back-end+Web+Development;React+%7C+React+Native+%7C+Node.js;Building+Real+Projects%2C+One+Bug+at+a+Time" alt="Typing SVG" />
-</a> -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=6+Months+Experience+%7C+Still+Learning+Every+Day;Front-end+%2B+Back-end+Web+Development;React+%7C+React+Native+%7C+Node.js;Building+Real+Projects%2C+One+Bug+at+a+Time" alt="Typing SVG" />
 </a>
 
 </div>
 
-#I'm Full-Stack Web & Mobile Developer
+# I'm Full-Stack Web & Mobile Developer
 
 <div>
 <br/>
 
 * 🌱 6 months of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
-* 💻 Comfortable working with React, React Native, and Node.js, and currently deepening my skills with TypeScript<br/>
-* 📚 Learning something new every week — right now that's cloud basics (AWS) and clean API design<br/>
+* 💻 Comfortable working with React, React Native, Node.js, Python, and TypeScript<br/>
+* ☁️ Currently deepening my skills in cloud technologies with AWS and learning clean API design<br/>
+* 📚 Learning something new every week and continuously improving my software development skills<br/>
 * 🛠️ I enjoy small, practical projects more than buzzwords — happy to show real code and real problems I've solved<br/>
 * 🤝 Open to junior/entry-level roles, freelance work, and collaborating on open-source projects<br/>
 
@@ -48,6 +46,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
@@ -62,6 +64,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -88,15 +94,15 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats-two-murex.vercel.app/api?username=shehroz01233&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&t=1"
-  height="170"
-  alt="GitHub Stats"
+src="https://github-readme-stats-two-murex.vercel.app/api?username=shehroz01233&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&t=1"
+height="170"
+alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shehroz01233&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  width="495"
-  alt="Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=shehroz01233&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+width="495"
+alt="Activity Graph"
 />
 
 </div>
