@@ -16,7 +16,7 @@
 <br/>
 
 * 🌱 6 months of hands-on experience building web and mobile applications with modern front-end and back-end tools<br/>
-* 💻 Comfortable working with React, React Native, Node.js, Python, and TypeScript<br/>
+* 💻 Comfortable working with React,Next js, React Native, Node.js, Python, and TypeScript<br/>
 * ☁️ Currently deepening my skills in cloud technologies with AWS and learning clean API design<br/>
 * 📚 Learning something new every week and continuously improving my software development skills<br/>
 * 🛠️ I enjoy small, practical projects more than buzzwords — happy to show real code and real problems I've solved<br/>
